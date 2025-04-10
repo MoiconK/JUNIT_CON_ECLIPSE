@@ -1,6 +1,6 @@
 # 🔍 JUnit con Eclipse - Proyecto de Ejemplo
 
-Un proyecto demostrativo para aprender pruebas unitarias con JUnit en Eclipse, perfecto para principiantes.
+Un proyecto demostrativo para aprender pruebas unitarias con JUnit en Eclipse.
 
 ## 🚀 Herramientas utilizadas
 
